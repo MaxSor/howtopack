@@ -10,5 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxSor/howtopack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxSor/howtopack/issues"
+  },
+  "homepage": "https://github.com/MaxSor/howtopack#readme"
 }
