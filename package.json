@@ -1,6 +1,6 @@
 {
   "name": "npmht",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "for npm how to",
   "main": "index.js",
   "scripts": {
