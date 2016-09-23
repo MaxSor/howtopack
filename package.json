@@ -1,0 +1,14 @@
+{
+  "name": "npmht",
+  "version": "1.0.0",
+  "description": "for npm how to",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "maxsor",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
