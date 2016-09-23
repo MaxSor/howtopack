@@ -1,7 +1,7 @@
 {
-  "name": "npmht",
+  "name": "@maxsor/npmht",
   "version": "1.0.2",
-  "description": "for npm how to",
+  "description": "for npm how to1",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
